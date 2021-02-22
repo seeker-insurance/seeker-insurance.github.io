@@ -28,7 +28,7 @@ twitter_username: QuoteSeekr
 github_username:  anwittin
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
